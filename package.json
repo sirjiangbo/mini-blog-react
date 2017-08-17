@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/sirjiangbo/mini-blog-react#readme",
   "dependencies": {
+    "antd": "^2.12.6",
     "axios": "^0.16.2",
     "bluebird": "^3.5.0",
     "ejs": "^2.5.7",
@@ -41,6 +42,9 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-css": "^0.1.0",
+    "gulp-stylus": "^2.6.0",
     "webpack": "^3.5.5"
   }
 }
